@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\practica3n\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\practica3n\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\practica3n\\ejercicio1\\ejercicio1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\practica3n\\ejercicio1\\ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A4AE17-4729-43B7-9CF7-0077085E61EF}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\models\\Usuario.cs",
+              "RelativeToolTip": "Ejercicio1\\models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:14:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:48:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:47:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\practica3N\\Ejercicio1\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:46:19.024Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
